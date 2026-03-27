@@ -1,18 +1,13 @@
 # Hi 👋, I'm Prakash M
 
-<!-- 🔥 TOP ANIMATION BANNER -->
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
-</p>
-
 <!-- ⚡ TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Projects+Daily" />
 </p>
 
-<!-- 💻 CODING ANIMATION -->
+<!-- 💻 SINGLE CODING ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
 ---
