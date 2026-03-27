@@ -1,18 +1,18 @@
 # Hi 👋, I'm Prakash M
 
-<!-- 💻 UNIQUE CODING ANIMATION -->
+<!-- 💻 PROFESSIONAL CODING ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
 </p>
 
 <!-- 🐍🌐💻 EMOJIS -->
-<p align="center" style="font-size:28px;">
+<p align="center" style="font-size:26px;">
   🐍 🌐 💻
 </p>
 
-<!-- 🎯 TEXT ANIMATION -->
+<!-- 🎯 TEXT ANIMATION (PROFESSIONAL COLOR) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Projects+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Scalable+Applications" />
 </p>
 
 ---
@@ -61,16 +61,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashm03&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashm03&theme=tokyonight" />
-</p>
-
----
-
-## 🌊 Footer Animation
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prakashm03&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakashm03&theme=default" />
 </p>
 
 ---
