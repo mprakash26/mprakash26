@@ -1,15 +1,17 @@
 # Hi 👋, I'm Prakash M
 
-<!-- 💻 CODING ANIMATION WITH EMOJIS -->
-<p align="center">
-  🐍 🌐 💻
-  <br><br>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+<!-- 💻 CODING ANIMATION WITH EMOJI OVERLAY -->
+<p align="center" style="position: relative;">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="420" />
 </p>
 
-<!-- 🎯 TEXT ANIMATION (NO ROCKET) -->
+<p align="center" style="margin-top:-60px; font-size:30px;">
+  🐍 🌐 💻
+</p>
+
+<!-- 🎯 TEXT ANIMATION (NEW COLOR) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF7F&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Projects+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=1E90FF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Projects+Daily" />
 </p>
 
 ---
@@ -67,7 +69,7 @@
 ## 🌊 Cool Footer Animation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:1E90FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer"/>
 </p>
 
 ---
