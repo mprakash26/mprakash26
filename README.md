@@ -1,14 +1,16 @@
 # Hi 👋, I'm Prakash M
 
-<!-- 💻 CODING ANIMATION FIRST -->
+<!-- 💻 CODING ANIMATION WITH EMOJIS -->
 <p align="center">
+  🐍 🌐 💻
+  <br><br>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-<!-- 🎯 COLORED TEXT ROLE -->
-<h2 align="center" style="color:#00F7FF;">
-  🚀 Python Full Stack Developer | Django Developer | AI Enthusiast
-</h2>
+<!-- 🎯 TEXT ANIMATION (NO ROCKET) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF7F&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Projects+Daily" />
+</p>
 
 ---
 
@@ -65,7 +67,7 @@
 ## 🌊 Cool Footer Animation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF7F,100:1E90FF&height=120&section=footer"/>
 </p>
 
 ---
