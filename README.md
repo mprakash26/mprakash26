@@ -1,7 +1,11 @@
 # Hi 👋, I'm Prakash M
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=50">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -18,7 +22,7 @@
 
 ### 👨‍💻 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🌐 Web Development
@@ -59,6 +63,14 @@
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=prakashm03&theme=algolia" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prakashm03/prakashm03/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
