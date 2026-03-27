@@ -6,7 +6,7 @@
 </p>
 
 <!-- 🎯 ROLE -->
-<p align="center" style="font-size:22px;">
+<p align="center" style="font-size:24px;">
   Python Full Stack Developer • Django • Web Development
 </p>
 
