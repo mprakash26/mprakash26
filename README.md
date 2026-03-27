@@ -1,18 +1,18 @@
 # Hi 👋, I'm Prakash M
 
-<!-- 💻 PROFESSIONAL PERSON WORKING ON PC -->
+<!-- 💻 PROFESSIONAL DEVELOPER WORKING -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="420" />
 </p>
 
 <!-- 🐍🌐💻 SKILL EMOJIS -->
-<p align="center" style="font-size:26px;">
-  🐍 🌐 💻
+<p align="center" style="font-size:24px;">
+  🐍 Python &nbsp;&nbsp; 🌐 Django &nbsp;&nbsp; 💻 Developer
 </p>
 
-<!-- 🎯 TEXT ANIMATION (PROFESSIONAL BLUE) -->
+<!-- 🎯 TEXT ANIMATION (CLEAN BLUE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=0A66C2&center=true&vCenter=true&width=650&lines=Python+Full+Stack+Developer;Django+Backend+Developer;AI+Enthusiast;Building+Scalable+Web+Applications" />
 </p>
 
 ---
