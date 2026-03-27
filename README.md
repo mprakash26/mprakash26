@@ -1,11 +1,11 @@
 # Hi 👋, I'm Prakash M
 
-<!-- 💻 NEW PROFESSIONAL CODING ANIMATION -->
+<!-- 💻 PROFESSIONAL CODING ANIMATION -->
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" />
 </p>
 
-<!-- 🎯 ROLE TEXT -->
+<!-- 🎯 ROLE -->
 <p align="center" style="font-size:22px;">
   Python Full Stack Developer • Django • Web Development
 </p>
@@ -28,24 +28,22 @@
 ## 🛠️ Skills & Tools
 
 ### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+- 🧩 Bootstrap  
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django" />
-</p>
+- 🐍 Python  
+- 🌐 Django  
 
 ### 🗄️ Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+- 🛢️ MySQL  
 
 ### 🧰 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+- 🔧 Git  
+- 🐙 GitHub  
+- 💻 VS Code  
 
 ---
 
@@ -71,7 +69,7 @@
 ---
 
 ## 📫 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/prakashm03">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
