@@ -1,8 +1,8 @@
 # Hi 👋, I'm Prakash M
 
-<!-- 💻 CODING ANIMATION -->
+<!-- 💻 UNIQUE CODING ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="420" />
 </p>
 
 <!-- 🐍🌐💻 EMOJIS -->
@@ -12,7 +12,7 @@
 
 <!-- 🎯 TEXT ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Projects+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&color=FF6EC7&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Projects+Daily" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 ## 🌊 Footer Animation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EC7,100:8A2BE2&height=120&section=footer"/>
 </p>
 
 ---
