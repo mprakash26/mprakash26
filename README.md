@@ -1,8 +1,8 @@
 # Hi 👋, I'm Prakash M
 
-<!-- 💻 PROFESSIONAL CODING ANIMATION -->
+<!-- 💻 PERSON CODING ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
 </p>
 
 <!-- 🐍🌐💻 EMOJIS -->
@@ -10,7 +10,7 @@
   🐍 🌐 💻
 </p>
 
-<!-- 🎯 TEXT ANIMATION (PROFESSIONAL COLOR) -->
+<!-- 🎯 TEXT ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=0A66C2&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Scalable+Applications" />
 </p>
