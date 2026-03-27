@@ -1,11 +1,18 @@
 # Hi 👋, I'm Prakash M
 
+<!-- 🔥 TOP ANIMATION BANNER -->
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" />
 </p>
 
+<!-- ⚡ TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Projects+Daily" />
+</p>
+
+<!-- 💻 CODING ANIMATION -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 ---
@@ -60,17 +67,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prakashm03&theme=algolia" />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## 🌊 Cool Footer Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prakashm03/prakashm03/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1E90FF&height=120&section=footer"/>
 </p>
 
 ---
