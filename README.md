@@ -1,14 +1,14 @@
 # Hi 👋, I'm Prakash M
 
-<!-- ⚡ TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Developer;AI+Enthusiast;Building+Projects+Daily" />
-</p>
-
-<!-- 💻 SINGLE CODING ANIMATION -->
+<!-- 💻 CODING ANIMATION FIRST -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
+
+<!-- 🎯 COLORED TEXT ROLE -->
+<h2 align="center" style="color:#00F7FF;">
+  🚀 Python Full Stack Developer | Django Developer | AI Enthusiast
+</h2>
 
 ---
 
