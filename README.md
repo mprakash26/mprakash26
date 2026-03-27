@@ -1,18 +1,18 @@
 # Hi 👋, I'm Prakash M
 
-<!-- 💻 PROFESSIONAL CODING ANIMATION -->
+<!-- 💻 NEW PROFESSIONAL CODING ANIMATION -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" />
 </p>
 
-<!-- 🐍🌐💻 ROLE -->
+<!-- 🎯 ROLE TEXT -->
 <p align="center" style="font-size:22px;">
   Python Full Stack Developer • Django • Web Development
 </p>
 
-<!-- 🎯 TEXT ANIMATION -->
+<!-- 🔤 TEXT ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Python+%7C+Django+Developer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Python+%7C+Django+Developer;Continuous+Learner" />
 </p>
 
 ---
@@ -27,34 +27,24 @@
 
 ## 🛠️ Skills & Tools
 
-<!-- 🔹 Row 1 -->
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-<!-- 🔹 Row 2 -->
+### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python,django" />
 </p>
 
-<!-- 🔹 Row 3 -->
+### 🗄️ Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="50"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-<!-- 🔹 Row 4 -->
+### 🧰 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django" height="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-</p>
-
-<!-- 🔹 Row 5 -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="50"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
