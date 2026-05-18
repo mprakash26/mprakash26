@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 About Me
+
 - 🔭 Focused on Python Full Stack Development  
 - 🌱 Learning Advanced Django & Backend Systems  
 - 💡 Strong in Problem Solving & Logical Thinking  
@@ -23,6 +24,7 @@
 # 🛠️ Skills & Tools
 
 ## 🎨 Frontend
+
 <p align="center">
   <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="80"/>
 
@@ -32,6 +34,7 @@
 ---
 
 ## ⚙️ Backend
+
 <p align="center">
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="80"/>
 
@@ -41,6 +44,7 @@
 ---
 
 ## 🗄️ Database
+
 <p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="80"/>
 
@@ -50,6 +54,7 @@
 ---
 
 ## 🧰 Tools
+
 <p align="center">
   <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80"/>
 
@@ -61,6 +66,7 @@
 ## 📌 Projects
 
 ### 🌿 Plant Leaf Disease Detection
+
 - Vision Transformer (ViT) based model  
 - Image classification using deep learning  
 - Tech: Python, TensorFlow/PyTorch, OpenCV  
