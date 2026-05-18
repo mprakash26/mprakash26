@@ -6,13 +6,8 @@
 </p>
 
 <!-- 🎯 ROLE -->
-<p align="center" style="font-size:24px;">
-  Python Full Stack Developer • Django • Web Development
-</p>
-
-<!-- 🔤 TEXT ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Python+%7C+Django+Developer;Continuous+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Python+Full+Stack+Developer;Django+Developer;Web+Application+Developer" />
 </p>
 
 ---
@@ -25,26 +20,40 @@
 
 ---
 
-## 🛠️ Skills & Tools
+# 🛠️ Skills & Tools
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+## 🎨 Frontend
+<p align="center">
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="80"/>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
 </p>
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django" />
+---
+
+## ⚙️ Backend
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="80"/>
+
+  <img src="https://skillicons.dev/icons?i=python,django&theme=dark" />
 </p>
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+---
+
+## 🗄️ Database
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="80"/>
+
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
-### 🧰 Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+---
+
+## 🧰 Tools
+<p align="center">
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="80"/>
+
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 </p>
 
 ---
@@ -58,20 +67,41 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakashm03&show_icons=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakashm03&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=prakashm03&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashm03&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakashm03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-<p>
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakashm03&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prakashm03&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/prakashm03">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -79,4 +109,6 @@
 
 ---
 
-⭐ Always learning, always growing
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Always+Learning...;Always+Growing...;Building+Real+World+Projects..." />
+</p>
